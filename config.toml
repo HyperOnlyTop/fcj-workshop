@@ -57,6 +57,19 @@ identifier = "Github"
 url = "https://github.com/HyperOnlyTop"
 weight = 30
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-linkedin'></i> LinkedIn"
+identifier = "LinkedIn"
+url = "https://www.linkedin.com/in/v%C3%B5-nguy%C3%AAn-b%C3%ACnh-b20209401/"
+weight = 40
+
+
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fab fa-linkedin'></i> LinkedIn"
+identifier = "LinkedIn"
+url = "https://www.linkedin.com/in/v%C3%B5-nguy%C3%AAn-b%C3%ACnh-b20209401/"
+weight = 40
+
 
 [markup]
   [markup.goldmark]
